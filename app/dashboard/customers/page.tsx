@@ -1,6 +1,11 @@
 import Pagination from "../../ui/invoices/pagination";
 import { fetchFilteredCustomers } from "../../lib/data";
 import CustomersTable from "../../ui/customers/table";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: 'Customers',
+};
 
 export default async function CustomersPage(props: {
   searchParams?: Promise<{
