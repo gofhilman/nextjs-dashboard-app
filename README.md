@@ -2,6 +2,8 @@
 
 The Next.js Dashboard App is a full-stack application designed to provide a modern and responsive dashboard interface using Next.js. It is built using Next.js and integrates various features to manage and display data effectively.
 
+Live: <https://nextjs-dashboard-app-kappa-beryl.vercel.app>
+
 ## Features
 
 - User authentication and authorization
